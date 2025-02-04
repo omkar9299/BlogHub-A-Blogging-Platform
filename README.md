@@ -1,1 +1,1 @@
-# BlogHub-A-Comprehensive-Blogging-Platform
+# BlogHub-A-Blogging-Platform
